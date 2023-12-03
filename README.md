@@ -7,7 +7,7 @@ Training consists of the following parts:
 - (1w) css libraries (bootstrap)
 - (1w) dynamic pages (javascript)
 - (1w) javascript ES6
-- (1w)REST APIs
+- (1w) REST APIs
 
 # Static pages
 Learn about basic html and css usage. Create a static page, learn how to divide its content with html and give it color and correct placement with css.
