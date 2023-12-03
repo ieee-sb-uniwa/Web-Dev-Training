@@ -3,13 +3,11 @@ Repository with all web development training tasks and student project from ieee
 
 # Training schedule
 Training consists of the following parts:
-- static pages (html/css)
-- css libraries (bootstrap)
-- dynamic pages (javascript)
-- javascript ES6
-- REST APIs
-- front-end frameworks (React js)
-- back-end frameworks (Node js)
+- (1-2w) static pages (html/css)
+- (1w) css libraries (bootstrap)
+- (1w) dynamic pages (javascript)
+- (1w) javascript ES6
+- (1w)REST APIs
 
 # Static pages
 Learn about basic html and css usage. Create a static page, learn how to divide its content with html and give it color and correct placement with css.
