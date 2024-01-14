@@ -12,6 +12,7 @@ Training consists of the following parts:
 # Part 01 - Static pages
 
 Learn about basic html and css usage. Create a static page, learn how to divide its content with html and give it color and correct placement with css.
+
 Reference Material: 
 - W3Schools - [HTML Tutorial](https://www.w3schools.com/html/)
 - W3Schools - [CSS Tutorial](https://www.w3schools.com/css/)
@@ -31,4 +32,22 @@ You should be able to browse between them by clicking the urls in the row contai
 A portion of the images should be saved locally while the rest should be images from urls.
 ```
 
+# Part 02 - CSS Libraries
 
+Learn how to implement css libraries and use the bootstrap library. Bootstrap provides a long list of ready to go elements.
+All you have to do is check the documentation you are ready!
+
+Reference Material:
+- FreeCodeCamp - [Bootstrap tutorial](https://www.youtube.com/watch?v=-qfEOE4vtxE)
+- [Bootstrap Docs](https://getbootstrap.com/)
+
+**Task 02 - Add bootstrap elements**
+
+```
+Redo your task 01 now using bootstrap classes instead of CSS styling.
+Try working without a css file.
+
+Added content:
+- each image should be a bootstrap card element
+- cards should have a title, an image and a small description
+```
